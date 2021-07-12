@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Jair Escalante</h1>
 <h3 align="center">A passionate frontend developer from Mexico</h3>
-<img src="https://global-uploads.webflow.com/5f5a53e153805db840dae2db/6073fbf151fa4565d48572dc_GitHub_aprender-programaci%25C3%25B3n.jpeg "
+<img src="https://global-uploads.webflow.com/5f5a53e153805db840dae2db/6073fbf151fa4565d48572dc_GitHub_aprender-programaci%25C3%25B3n.jpeg ">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jairescalante&label=Profile%20views&color=0e75b6&style=flat" alt="jairescalante" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=jairescalante" alt="jairescalante" /></a> </p>
